@@ -6,6 +6,7 @@ echo "Hello Git";
 
 for($i=0; $i<4; $i++) {
 	echo "I'm in a loop";
-}
+
+// Some other Code
 
 throw new Exception("Out of sync");
